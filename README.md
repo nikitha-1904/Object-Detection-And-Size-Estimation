@@ -1,4 +1,4 @@
-# Object-Detection-And-Size-Etimation
+# Object-Detection-And-Size-Estimation
 In image processing, digital images are analyzed and modified using computer algorithms for tasks like filtering, enhancing, and recognizing. It is used in various industries such as robotics, entertainment, medical imaging, and agriculture. This project uses image processing to measure the size and distance of objects, focusing on veggies without physical contact. It integrates AI and IT to improve agricultural efficiency. The use of modified Canny edge detection and Multiscale Faster-NN algorithms enables real-time measurement and flaw identification.
 The main algorithms adopted here are e Detectron2, Faster-RCNN and Canny Edge Detection. 
 # Detectron2 : 
